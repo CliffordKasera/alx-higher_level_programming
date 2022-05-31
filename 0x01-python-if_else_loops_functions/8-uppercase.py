@@ -5,6 +5,7 @@ def upper(i):
     else:
         return ord(i)
 
+
 def uppercase(c):
     empty_string = ""
     for i in c:
