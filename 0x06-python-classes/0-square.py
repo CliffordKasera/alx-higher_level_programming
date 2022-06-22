@@ -4,4 +4,4 @@ class Square:
     """Empty class that does
     nothing
     """
-    return
+    pass
